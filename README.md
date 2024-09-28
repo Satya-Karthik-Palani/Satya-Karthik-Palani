@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karthik Palani
 ======================================================================================================================================
 
-I am currently pursuing my B Tech degree in Compute Science Engineering from Indian Institute of Information Technology, Sricity
+I have pursued my B Tech degree in Compute Science Engineering from Indian Institute of Information Technology, Sricity
 
-* 🌍  I'm based in Tanuku
+* 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [karthik.palani0827@gmail.com](mailto:karthik.palani0827@gmail.com)
 * 🧠  I'm learning I am an open-source enthusiast and an aspiring mern stack developer along with other skills like C, C++, Java, Javascript.
 * 🤝  I'm open to collaborating on I’m eager to know about opportunities which will help me in expanding my potential.
