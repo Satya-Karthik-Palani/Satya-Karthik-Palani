@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karthik Palani
 ======================================================================================================================================
 
-I have pursued my B Tech in Compute Science Engineering from Indian Institute of Information Technology, Sricity
+I have pursued my B.Tech in Computer Science Engineering at the Indian Institute of Information Technology, Sricity.
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [karthik.palani0827@gmail.com](mailto:karthik.palani0827@gmail.com)
